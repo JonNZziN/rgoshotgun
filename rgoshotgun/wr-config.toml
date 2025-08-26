@@ -4,3 +4,6 @@ version = "1.0.0"
 author_ids = ["JonNZziN"]
 description = "Testing mod 2"
 tags = ["cum"]
+
+[dependencies]
+partitions "0.1.0"
